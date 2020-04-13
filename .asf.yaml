@@ -1,0 +1,11 @@
+# see https://s.apache.org/asfyaml
+github:
+  description: "Apache Maven Doxia Book Maven Plugin"
+  homepage: https://maven.apache.org/doxia/doxia-tools/doxia-book-maven-plugin/
+  labels:
+    - java
+    - build-management
+    - apache-maven
+    - maven-plugin
+    - doxia
+    - doxia-tools
