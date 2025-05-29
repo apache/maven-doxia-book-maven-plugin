@@ -45,8 +45,8 @@ under the License.
     <url>http://svn.apache.org/viewvc/maven/doxia/doxia-tools/trunk/doxia-book-maven-plugin</url>
   </scm>
   <issueManagement>
-    <system>jira</system>
-    <url>https://issues.apache.org/jira/browse/DOXIATOOLS/component/12326007</url>
+    <system>GitHub Issues</system>
+    <url>https://github.com/apache/maven-doxia-book-maven-plugin/issues</url>
   </issueManagement>
   <distributionManagement>
     <site>
