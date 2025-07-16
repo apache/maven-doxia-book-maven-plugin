@@ -56,7 +56,7 @@ under the License.
   </distributionManagement>
 
   <properties>
-    <doxiaVersion>1.3</doxiaVersion>
+    <doxiaVersion>1.12.0</doxiaVersion>
     <javaVersion>8</javaVersion>
     <mavenVersion>2.2.1</mavenVersion>
     <project.build.outputTimestamp>2020-04-07T21:04:00Z</project.build.outputTimestamp>
