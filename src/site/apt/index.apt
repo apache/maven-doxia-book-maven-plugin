@@ -28,6 +28,8 @@
 
 Introduction
 
+<<<Note:>>> This plugin is retired. It is no longer maintained.
+
  Doxia allows you to write books like user manuals and guides in any format supported by Doxia. Combined with the
  Doxia Book Maven Plugin, you are able to include the manuals directly in your generated site with links to the off-line
  friendly formats like XDoc, PDF, RTF and LaTeX.

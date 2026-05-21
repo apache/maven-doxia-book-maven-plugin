@@ -28,6 +28,9 @@
 
 Usage
 
+<<<Note:>>> This plugin is retired. It is no longer maintained.
+
+
  Below is a sample <<<pom.xml>>> illustrating how to use it.
 
 +------------------------------------------------------
